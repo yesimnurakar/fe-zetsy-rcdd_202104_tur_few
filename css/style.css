@@ -20,3 +20,6 @@ body {
 }
 
 /* Write all remaining styles here */
+p {
+	font-family: sans-serif;
+}
