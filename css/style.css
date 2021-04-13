@@ -45,7 +45,7 @@ a {
     cursor: pointer;
     text-decoration: underline;
 }
-#press img {
+.press {
     border: 5px #ccc solid;
     padding: 1px;
 }
