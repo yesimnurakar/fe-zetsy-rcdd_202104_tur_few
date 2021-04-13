@@ -22,4 +22,5 @@ body {
 /* Write all remaining styles here */
 p {
 	font-family: 'Times New Roman', serif;
+	font-size: 100%;
 }
